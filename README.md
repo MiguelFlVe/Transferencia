@@ -2,4 +2,4 @@
 
 ## Apropiación
 
-Rama principal
+Rama de desarrollo
