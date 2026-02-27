@@ -2,4 +2,4 @@
 
 ## Apropiación
 
-Rama de desarrollo
+Rama de trabajo de Oscar
