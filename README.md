@@ -2,4 +2,4 @@
 
 ## Apropiación
 
-Rama de trabajo de Miguel
+Rama de recepción de avances previo al lanzamiento
