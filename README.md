@@ -2,4 +2,4 @@
 
 ## Apropiación
 
-Rama de recepción de avances previo al lanzamiento
+Rama principal
