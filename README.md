@@ -2,4 +2,4 @@
 
 ## Apropiación
 
-Rama de trabajo de Oscar
+Rama de trabajo de Jesus
